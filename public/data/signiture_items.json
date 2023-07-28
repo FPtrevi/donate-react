@@ -1,0 +1,44 @@
+[
+  {
+    "key": "11",
+    "img": "images/5.jpg",
+    "information": "더나누기[thenanugi] 짐색  : 32,000원",
+    "donationGroup": "굿네이버스 아동보호전문기관",
+    "href": "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001277"
+  },
+  {
+    "key": "12",
+    "img": "images/4.jpg",
+    "information": "에코어스 내추럴 에코백  : 9,800원",
+    "donationGroup": "굿네이버스 위기가정아동, 희망나눔학교",
+    "href": "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001277"
+  },
+  {
+    "key": "13",
+    "img": "https://image1.marpple.co/files/u_193535/2021/10/original/7df679d59cd3181b3769fc2b0decb4469998f8811.png?q=92&w=432&f=jpeg&bg=f6f6f6",
+    "information": "ed1 아이폰 폰케이스  : 19,500원",
+    "donationGroup": "세이브칠드런 국내외 위기아동지원사업",
+    "href": "https://savethegoods.marpple.shop/kr/sck_goods/products/7836486"
+  },
+  {
+    "key": "14",
+    "img": "https://image1.marpple.co/files/u_1506036/2021/9/original/0c481f27eb77166aa015e4e64ac14950c04495f71.png?q=92&w=600&f=jpeg&bg=f6f6f6",
+    "information": "친환경 데일리백_with 아방  : 13,300",
+    "donationGroup": "세이브칠드런 국내외 위기아동지원사업",
+    "href": "https://savethegoods.marpple.shop/kr/sck_goods/products/8604656"
+  },
+  {
+    "key": "15",
+    "img": "https://loveseal.knta.or.kr/data/goodsImages/GOODS1_1634697693.jpg",
+    "information": "[2021 그린씰] 놀면 뭐하니?와 함께하는 크리스마스 씰  : 5,000 원",
+    "donationGroup": "크리스마스씰 결핵환자",
+    "href": "https://loveseal.knta.or.kr/christmas/detail.html?idx=416"
+  },
+  {
+    "key": "16",
+    "img": "https://loveseal.knta.or.kr/data/goodsImages/GOODS1_1632996345.jpg",
+    "information": "[2019 크리스마스 씰 굿즈] 제주도와 해녀문화 머그컵 3종  : 15,000 원",
+    "donationGroup": "크리스마스씰 결핵환자",
+    "href": "https://loveseal.knta.or.kr/christmas/detail.html?idx=400"
+  }
+]

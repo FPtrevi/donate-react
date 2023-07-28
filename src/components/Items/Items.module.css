@@ -1,0 +1,89 @@
+.no {
+  position: absolute;
+  left: 250px;
+  top: 100px;
+  border-left: 1px solid black;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  left: 250px;
+  top: 100px;
+}
+
+.itemContent {
+  width: 300px;
+  height: 400px;
+  z-index: -1;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.itemContent::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.35s;
+}
+
+.a {
+  color: black;
+}
+
+.a:hover > .itemContent::after {
+  opacity: 1;
+}
+
+.img {
+  width: 100%;
+  height: 70%;
+  padding: 5px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+
+.name {
+  width: 100%;
+  height: 10%;
+  text-align: center;
+}
+
+.price {
+  width: 100%;
+  height: 10%;
+  text-align: center;
+}
+
+.sponsor {
+  width: 100%;
+  height: 10%;
+  text-align: center;
+}
+
+.visit {
+  position: absolute;
+  bottom: 150%;
+  left: 95px;
+  z-index: 2;
+  color: #fff;
+  font-size: 26px;
+  font-weight: 700;
+  transition: all 0.35s;
+}
+
+.a:hover > .itemContent > .visit {
+  bottom: 52%;
+}

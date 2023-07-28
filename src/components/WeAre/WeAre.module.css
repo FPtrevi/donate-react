@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+}
+
+.h1 {
+  font-size: 4rem;
+  margin: 5rem 0;
+}
+
+.div {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+
+.icon {
+  font-size: 3.5rem;
+  color: var(--color-red);
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.text {
+  font-size: 0.8rem;
+}
